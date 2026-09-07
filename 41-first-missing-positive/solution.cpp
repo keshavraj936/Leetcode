@@ -1,19 +1,27 @@
-// 135 ms | 79.9 MB
+// 0 ms | 54.9 MB
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        set<int>set;
-        for(int x : nums){
-            if(x > 0){
-            set.insert(x);
+
+        for(int i = 0; i < nums.size(); i++){
+            int element = nums[i];
+
+            if(element >= 1 && element <= nums.size()){
+                int current_element = element - 1;
+
+                if(element != nums[current_element]){
+                    swap(nums[i], nums[current_element]);
+                    i--;
+                }
             }
         }
 
-        for(int i = 1; i <= nums.size(); i++){
-            if(!set.contains(i)){
-                return i; 
+        for(int i = 0; i < nums.size(); i++){
+            if(nums[i] != i + 1){
+                return i + 1;
             }
         }
+
         return nums.size() + 1;
     }
 };

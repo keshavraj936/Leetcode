@@ -16,3 +16,11 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | 645 | [Set Mismatch](645-set-mismatch/) | Easy | 2026-09-13 |
 | 2235 | [Add Two Integers](2235-add-two-integers/) | Easy | 2026-09-13 |
 <!-- LEETHUB:TABLE:END -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/keshavraj936/Leetcode/tree/master/2235-add-two-integers) |
+<!---LeetCode Topics End-->

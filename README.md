@@ -22,5 +22,14 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/keshavraj936/Leetcode/tree/master/0069-sqrtx) |
 | [2235-add-two-integers](https://github.com/keshavraj936/Leetcode/tree/master/2235-add-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/keshavraj936/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/keshavraj936/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

@@ -27,9 +27,14 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/keshavraj936/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/keshavraj936/Leetcode/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/keshavraj936/Leetcode/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/keshavraj936/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

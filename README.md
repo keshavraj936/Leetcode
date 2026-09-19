@@ -24,6 +24,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | ------- |
 | [0066-plus-one](https://github.com/keshavraj936/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/keshavraj936/Leetcode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/keshavraj936/Leetcode/tree/master/0231-power-of-two) |
 | [2235-add-two-integers](https://github.com/keshavraj936/Leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
@@ -41,6 +42,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | ------- |
 | [0035-search-insert-position](https://github.com/keshavraj936/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/keshavraj936/Leetcode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/keshavraj936/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -50,4 +52,24 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/keshavraj936/Leetcode/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

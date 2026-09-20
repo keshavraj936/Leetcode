@@ -32,6 +32,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | ------- |
 | [0035-search-insert-position](https://github.com/keshavraj936/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/keshavraj936/Leetcode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/keshavraj936/Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/keshavraj936/Leetcode/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
@@ -72,4 +73,8 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/keshavraj936/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

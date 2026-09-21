@@ -41,6 +41,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/keshavraj936/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/keshavraj936/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/keshavraj936/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
@@ -77,4 +78,8 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/keshavraj936/Leetcode/tree/master/0278-first-bad-version) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/keshavraj936/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

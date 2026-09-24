@@ -22,6 +22,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/keshavraj936/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/keshavraj936/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/keshavraj936/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |

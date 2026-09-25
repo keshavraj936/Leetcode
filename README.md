@@ -28,6 +28,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/keshavraj936/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/keshavraj936/Leetcode/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keshavraj936/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/keshavraj936/Leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
@@ -54,6 +55,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/keshavraj936/Leetcode/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keshavraj936/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |

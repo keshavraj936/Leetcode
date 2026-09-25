@@ -27,6 +27,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0069-sqrtx](https://github.com/keshavraj936/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/keshavraj936/Leetcode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/keshavraj936/Leetcode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/keshavraj936/Leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
@@ -90,4 +91,12 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/keshavraj936/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/keshavraj936/Leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/keshavraj936/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

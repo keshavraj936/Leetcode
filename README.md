@@ -52,6 +52,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0704-binary-search](https://github.com/keshavraj936/Leetcode/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/keshavraj936/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/keshavraj936/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/keshavraj936/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,8 +99,10 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/keshavraj936/Leetcode/tree/master/0412-fizz-buzz) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/keshavraj936/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/keshavraj936/Leetcode/tree/master/0412-fizz-buzz) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/keshavraj936/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->

@@ -50,6 +50,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0066-plus-one](https://github.com/keshavraj936/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/keshavraj936/Leetcode/tree/master/0704-binary-search) |
+| [1470-shuffle-the-array](https://github.com/keshavraj936/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/keshavraj936/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |

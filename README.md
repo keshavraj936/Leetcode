@@ -46,6 +46,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keshavraj936/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/keshavraj936/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/keshavraj936/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/keshavraj936/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
@@ -106,4 +107,8 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | ------- |
 | [0412-fizz-buzz](https://github.com/keshavraj936/Leetcode/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/keshavraj936/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/keshavraj936/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

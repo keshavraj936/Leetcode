@@ -23,6 +23,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/keshavraj936/Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/keshavraj936/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/keshavraj936/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/keshavraj936/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
@@ -92,6 +93,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keshavraj936/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/keshavraj936/Leetcode/tree/master/0013-roman-to-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/keshavraj936/Leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/keshavraj936/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/keshavraj936/Leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/keshavraj936/Leetcode/tree/master/1108-defanging-an-ip-address) |

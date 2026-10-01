@@ -50,6 +50,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0027-remove-element](https://github.com/keshavraj936/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/keshavraj936/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/keshavraj936/Leetcode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/keshavraj936/Leetcode/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/keshavraj936/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -94,6 +95,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | ------- |
 | [0001-two-sum](https://github.com/keshavraj936/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/keshavraj936/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,4 +118,20 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | ------- |
 | [0027-remove-element](https://github.com/keshavraj936/Leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/keshavraj936/Leetcode/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

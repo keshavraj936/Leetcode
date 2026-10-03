@@ -53,6 +53,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/keshavraj936/Leetcode/tree/master/0704-binary-search) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavraj936/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/keshavraj936/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/keshavraj936/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/keshavraj936/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -97,6 +98,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0013-roman-to-integer](https://github.com/keshavraj936/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/keshavraj936/Leetcode/tree/master/0383-ransom-note) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavraj936/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavraj936/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -137,4 +140,8 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavraj936/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

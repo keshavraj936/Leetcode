@@ -37,6 +37,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0035-search-insert-position](https://github.com/keshavraj936/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/keshavraj936/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/keshavraj936/Leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/keshavraj936/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/keshavraj936/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/keshavraj936/Leetcode/tree/master/0704-binary-search) |
 ## Newton's Method
@@ -52,6 +53,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0066-plus-one](https://github.com/keshavraj936/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
+| [0349-intersection-of-two-arrays](https://github.com/keshavraj936/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/keshavraj936/Leetcode/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavraj936/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/keshavraj936/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -97,6 +99,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0001-two-sum](https://github.com/keshavraj936/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/keshavraj936/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/keshavraj936/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/keshavraj936/Leetcode/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavraj936/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
@@ -122,6 +125,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | ------- |
 | [0027-remove-element](https://github.com/keshavraj936/Leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/keshavraj936/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/keshavraj936/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +134,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/keshavraj936/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/keshavraj936/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |

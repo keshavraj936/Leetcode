@@ -112,6 +112,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/keshavraj936/Leetcode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/keshavraj936/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/keshavraj936/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/keshavraj936/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/keshavraj936/Leetcode/tree/master/0412-fizz-buzz) |
@@ -126,6 +127,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/keshavraj936/Leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/keshavraj936/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/keshavraj936/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavraj936/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer

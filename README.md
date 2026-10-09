@@ -57,6 +57,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | [0136-single-number](https://github.com/keshavraj936/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/keshavraj936/Leetcode/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/keshavraj936/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavraj936/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keshavraj936/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/keshavraj936/Leetcode/tree/master/0704-binary-search) |
@@ -133,6 +134,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 | ------- |
 | [0027-remove-element](https://github.com/keshavraj936/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/keshavraj936/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/keshavraj936/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/keshavraj936/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavraj936/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keshavraj936/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |

@@ -69,6 +69,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0136-single-number](https://github.com/keshavraj936/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/keshavraj936/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/keshavraj936/Leetcode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keshavraj936/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
@@ -142,6 +143,7 @@ Solved: 10 (Easy: 8, Medium: 1, Hard: 1)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/keshavraj936/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/keshavraj936/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
